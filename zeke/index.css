@@ -1,0 +1,13 @@
+body {
+    background: url(zeke.jpg);
+    background-size: cover;
+}
+
+button {
+    position: absolute;
+    height: 4em;
+    width: 8em;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}

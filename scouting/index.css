@@ -1,0 +1,15 @@
+body {
+    background: url(scouts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-weight: bold;
+    color: #fff;
+    background-color: black;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
